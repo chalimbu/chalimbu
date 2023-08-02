@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chalimbu
-- 👀 I’m interested in meta-learning, programmation,language learning, investing
+- 👀 I’m interested in meta-learning, programmation, language learning, investing, data engineering
 - 🌱 I’m currently learning about spring boot and algo trading
 - 💞️ I’m looking to collaborate on don't know
 - 📫 How to reach me @chalimbu on twitter,sebitaszapata@hotmail.com
