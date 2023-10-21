@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @chalimbu
 - 👀 I’m interested in meta-learning, programmation, language learning, investing, data engineering
 - 🌱 I’m currently learning about spring boot and algo trading
-- 💞️ I’m looking to collaborate on don't know
-- 📫 How to reach me @chalimbu on twitter,sebitaszapata@hotmail.com
+- 📫 How to reach me @chalimbu on twitter
 
 <!---
 chalimbu/chalimbu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
