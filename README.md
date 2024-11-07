@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chalimbu
-- 👀 I’m interested in meta-learning, programmation, language learning, investing, data engineering
-- 🌱 I’m currently learning about spring boot and algo trading
+- 👀 I’m interested in math, programming and meta-learning
+- 🌱 I’m currently learning about aws, dsa and habits
 - 📫 How to reach me @chalimbu on twitter
 
 <!---
